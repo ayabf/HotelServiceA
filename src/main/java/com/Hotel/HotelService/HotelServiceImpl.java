@@ -88,4 +88,4 @@ public class HotelServiceImpl implements HotelService {
             log.error("Échec de la suppression de l'hôtel. Hôtel avec l'ID {} non trouvé.", id);
         }
     }
-}
+} // test
